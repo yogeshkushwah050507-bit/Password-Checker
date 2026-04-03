@@ -36,7 +36,12 @@ Your password is evaluated based on:
 
 ## 🧪 Example
 
-```text
 hello123   → Weak  
 Hello@2000   → Medium  
-Ylvbac&8@50  → Strong  
+Ylvbac&8@50  → Strong
+
+
+<div align="center">
+  <strong>Crafted with ❤️ for developers who care about security</strong><br/>
+  <sub>⭐ If this helped you, consider starring the repository</sub>
+</div>
